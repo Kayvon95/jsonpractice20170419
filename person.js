@@ -1,5 +1,5 @@
 var voornaam = 'Kayvon';
-var achternaam = 'Rahimi Morad Ali';
+var achternaam = 'Rahimi Morad';
 var woonplaats = 'Breda';
 
 function i18l(language){
