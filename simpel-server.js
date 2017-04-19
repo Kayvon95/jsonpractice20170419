@@ -28,4 +28,6 @@ var person = require('./person');
 
 	}).listen(PORT);
 
+
+//Vertel gebruiker welke port wordt gebruikt voor de server.
 console.log('Server is running @ port : ' + PORT);	
